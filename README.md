@@ -94,5 +94,5 @@ flex: 0 1 auto;
 
 ## Prácticas
 - [Flexbox 01 - alineación](https://codepen.io/oneeyedman/pen/yoeRgj)
-- [Flexbox 02 - Página](codepen.io/oneeyedman/pen/PKNPrX)
-- [Flexbox 03 - Menu](codepen.io/oneeyedman/pen/jLqWNO)
+- [Flexbox 02 - Página](https://codepen.io/oneeyedman/pen/PKNPrX)
+- [Flexbox 03 - Menu](https://codepen.io/oneeyedman/pen/jLqWNO)
