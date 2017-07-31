@@ -15,10 +15,19 @@ Guión para repaso ;)
 ## Flexbox
 * Qué es flexbox
 * Por qué (Qué me soluciona)
-* Qué necesitamos
 
+### Qué necesitamos:
+**CSS**
 ```css
 display: flex;
+```
+**HTML**
+```html
+<div class="container">
+  <div class="item">1</div>
+  <div class="item">2</div>
+  <div class="item">3</div>
+</div>
 ```
 
 ## flex-direction
