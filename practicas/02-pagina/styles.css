@@ -1,0 +1,39 @@
+/* > General */
+body {
+	margin: 0;
+	font-family: comic sans ms;
+}
+
+
+
+
+/* > Pággina */
+.page {}
+
+
+
+
+
+/* >> Cabecera */
+.header {
+	background: #ccc;
+}
+
+
+
+
+
+/* >> Contenido principal */
+.main {
+	background: #eee;
+}
+
+
+
+
+
+/* >> pie */
+.footer {
+	background: #666;
+	color: #fff;
+}

@@ -1,0 +1,34 @@
+/* > General */
+body {
+	margin: 0;
+}
+
+
+
+
+/* > Elementos*/
+.container {}
+.item {
+	color: #fff;
+	font-family: Comic Sans MS;
+	font-size: 30px;
+	font-weight: bold;
+	padding: 10px 0;
+	text-align: center;
+	text-shadow: 0 1px 14px rgba(0, 0, 0, .25);
+}
+
+
+
+
+/* >> Colores*/
+.item__1 {background: #B1EB00;}
+.item__2 {background: #FFAC00;}
+.item__3 {background: #FF432E;}
+.item__4 {background: #FF85CB;}
+.item__5 {background: #53BBF4;}
+.item__6 {background: #3B3A35;}
+.item__7 {background: #20457C;}
+.item__8 {background: #5E3448;}
+.item__9 {background: #FB6648;}
+.item__10 {background: #A3D39C;}
